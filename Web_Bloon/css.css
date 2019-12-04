@@ -1,0 +1,138 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#menu {
+  list-style: none;
+  border: 2px none;
+  float: right;
+  padding-right: auto;
+  padding-top: 10px;
+}
+
+#menu li{
+  display: inline;
+  border-right: 1px none;
+  padding-right: 5px;
+  padding-left: 5px;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #fffff0;
+  background-color: #00fa9a;
+}
+
+a:active {
+  text-decoration: none;
+}
+
+#mymenu {
+  background-color: #c1cdc1;
+  width: auto;
+  height: 80px;
+}
+
+ h1 {
+  font-family: 'Pacifico', cursive;
+  font-size: 45px;
+  float: left;
+  margin-left: 70px
+}
+
+.text {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  margin-top: 100px;
+}
+
+h2 {
+  font-family: Geneva;
+  font-size: 30px; 
+  margin-top: 5px;
+  text-align: center;
+}
+
+.ph2 {
+  font-family: Arial;
+  font-size: 14px;
+  float: left;
+  margin-top: 10px;
+  text-align: justify;  
+}
+
+#leiamais {
+  font-family: Sagoe UI;
+  font-size: 12px ;
+  width: 100px;
+  text-align: center; 
+  border:#00fa9a 3px solid;
+}
+
+#container {
+  width: 99.8%;
+  overflow: auto;
+}
+
+#part1 {
+  width: 90%;
+  height: 320px;
+  margin-top: 50px;
+  margin-left: 90px;
+  background-color: #fae;
+}
+
+#org {
+  float: left;
+  width: 60%;
+}
+
+#txta {
+  width: 70%;
+  height: 290px;
+}
+
+#ymg {
+  float: right;
+}
+
+h3 {
+  margin-left: 90px;
+  margin-top: 50px;
+}
+
+#box2 {
+  width: 90%;
+  height: 380px;
+  margin-left: 90px;
+  margin-top: 30px;
+}
+
+div.galeria {
+  margin: 5px;
+  float: left;
+  width: 300px;
+  height: 250px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+div.galeria img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: justify ;
+  overflow: auto;
+}

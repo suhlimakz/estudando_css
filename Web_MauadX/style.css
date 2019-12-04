@@ -1,0 +1,233 @@
+body{
+    overflow: scroll;
+}
+#tudo{
+    width: 1903px;
+    height: 1480px;
+    margin: -7px;
+    background-color: #E8E8E8;
+}
+h6{
+    float: right;
+    margin-right: 140px;
+    font-family: Cursive, sans-serif;
+    font-size: 12px;
+    font-style: italic;
+    font-weight: normal;
+    font-variant: normal;
+}
+span#h6{
+    color: #FF0000;
+}
+#pagina{
+    float: right;
+    width: 1600px;
+    height: 1400px;
+    margin-right: 140px;
+}
+#superior{
+    border: 1px solid #FFFFFF;
+    height: 190px;
+    background-color: #FFFFFF;
+}
+#sup1{
+    height: 150px;
+}
+#logo{
+    border: 1px solid #FFFF00;
+    border-radius: 3px;
+    width: 300px;
+    height: 100px;
+    float: left;
+    margin-left: 25px;
+    margin-top: 25px;
+    background-color: #ffff00;
+}
+#log{
+    font-family: Verdana, Sans-Serif;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 10px;
+}
+#pesquisa{
+    float: right;
+    margin-left: 950px;
+    margin-top: 62px;
+}
+#lupa{
+    border: 1px solid #B5B5B5;
+    border-left: none;
+    float: right;
+    width: 21px;
+    margin-left: -6px;
+    margin-top: 62px;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    display: inline;
+    position:relative;
+}
+.lista1{
+    font-family: sans-serif;
+    font-size: 13px;
+    left: 850px;
+    top: -10px;
+}
+#sup2{
+    border: 1px solid #CFCFCF;
+    height: 40px;
+    margin-left: -2px;
+    margin-right: -2px;
+    margin-bottom: -2px;
+}
+.lista2{
+    font-family: sans-serif;
+    font-size: 15px;
+    top: -4px;
+    left: 130px;
+    margin: 20px; 
+}
+/*inserir img*/
+#meio{
+    border: 1px solid #FFFFE0;
+    height: 500px;
+    margin-top: 40px;
+    background-color: #FFFFE0;
+}
+#mtext1{
+    font-family: sans-serif;
+    font-size: 60px;
+    font-weight: bold;
+    float: left;
+    margin-left: 100px;
+    margin-top: 70px;
+}
+#mtext2{
+    font-family: sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    float: left;
+    text-align: center;
+    margin-left: 130px;
+    margin-top: -310px;
+}
+span#mt2{
+    color: #0000FF;
+    font-size: 70px;
+}
+span#mt20{
+    color: #0000FF;
+    font-size: 40px;
+}
+#mtext3{
+    font-family: sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    color: #ffffff;
+    float: left;
+    text-align: center;
+    margin-left: 90px;
+    margin-top: -60px;
+    border: 1px solid #000000;
+    border-radius: 5px;
+    background-color: #000000;
+    padding: 3px;
+}
+#imgl0{
+    width: 250px;
+    height: 350px;
+    float: left;
+    margin-left: 150px;
+    margin-top: 70px;
+}
+#imgl1{
+    width: 250px;
+    height: 350px;
+    float: left;
+    margin-left: 40px;
+    margin-top: 70px;
+}
+#imgl2{
+    width: 250px;
+    height: 350px;
+    float: left;
+    margin-left: 40px;
+    margin-top: 70px;
+}
+h3{
+    font-family: sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    color: #ff0000;
+    margin-top: 0px;
+    background-color: #CFCFCF;
+}
+#fim{
+    border: 2px solid #E8E8E8;
+    height: 560px;
+    margin-top: 50px;
+}
+#livrosd{
+     height: 520px;
+     margin-top: -15px;
+}
+#ld1{
+    width: 300px;
+    height: 470px;
+    float: left;
+    border: 1px solid #CFCFCF;
+    margin-top: 20px;
+    margin-left: 75px;
+}
+#imgld1{
+    width: 250px;
+    height: 350px;
+    float: left;
+    margin: 25px;
+}
+#ttlld1{
+    font-family: sans-serif;
+    font-size: 13px;
+    float: left;
+    margin-top: -20px;
+    margin-left: 15px;
+    
+}
+#botaold1{
+    font-family: sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    color: #FFFFFF;
+    text-align: center;
+    float: left;
+    border: 1px solid #FF0000;
+    border-radius: 5px;
+    background-color: #FF0000;
+    padding: 3px;
+    margin-top: -5px;
+    margin-left: 40px;
+}
+#precold1{
+    font-family: sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    color: #FF0000;
+    text-align: center;
+    float: right;
+    margin-top: -1px;
+    margin-right: 40px;
+}
+#rodape{
+    font-family: sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    background-color: #CFCFCF;
+    padding: 3px;
+    text-align: center;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}

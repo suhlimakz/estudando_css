@@ -1,0 +1,173 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#container {
+  width: auto;
+  height: auto;
+}
+
+#menu {
+  width: 100%;
+  height: 80px;
+  background-color: #4c8fec;
+}
+
+#name {
+  width: 450px;
+  height: 75px;
+  float: left;
+  font-family:'Nanum Pen Script', cursive;
+  font-size: 40px;
+}
+
+#awaoes {
+  margin-top: -40px;
+  margin-left: 60px;
+  font-family:'Nanum Pen Script', cursive;
+  font-size: 100px;
+  box-sizing: border-box;
+  color: #fff;
+}
+
+#opicoes {
+  margin-top: 30px;
+  float: right;
+  width: 450px;
+  height: 45px;
+  font-family: 'News Cycle', sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+  color: ghostwhite;
+}
+
+#opicoes ul li {
+  text-decoration: none;
+  display: inline;
+  margin-left: 20px;
+  padding: 3px;
+}
+
+#corpo {
+  width: auto;
+  height: auto;
+}
+
+#cbackg {
+  width: auto;
+  position: relative;
+  height: 1500px;
+  background-image: url(./background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  z-index: -1;
+}
+
+#cctext {
+  font-family:'Itim', cursive;
+  font-size: 50px;
+  color: #ff0066;
+  position: fixed;
+  text-transform: uppercase;
+  z-index: 0;
+  width: 1330px;
+  text-align: center;
+}
+
+#boxpost {
+  margin-top: 800px;
+  margin-left: 50px;
+  width: 1200px;
+  height: 450px;
+  z-index: 3;
+  position: absolute;
+}
+
+#post {
+  margin-top: 5px;
+  margin-left: 60px;
+  width: 330px;
+  height: 430px;
+  float: left;
+  background-color: #ffffff;
+}
+
+#postimg {
+  height: 200px;
+}
+
+.photo {
+  height: 200px;
+  width: 330px;
+}
+#postext {
+  margin: 2px;
+  background-color: #ffffff;
+}
+
+#postext h2 {
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 40px;
+  text-align: center;
+  font-weight: 900;
+}
+
+#postext p {
+  font-family: 'Nanum Gothic', sans-serif;
+  font-size: 16px;
+  text-align: center;
+  text-align: justify;
+}
+
+#areactt {
+  width: auto;
+  height: 200px;
+  padding-top: 50px;
+  padding-left: 50px;
+  background-color: #ff99c2;
+}
+
+#areactt h1 {
+  font-family: 'Didact Gothic', sans-serif;
+  
+}
+
+#areactt p {
+  font-family: 'Arial', sans-serif;
+  margin-top: 5px;
+}
+
+strong {
+  font-size: 20px;
+}
+
+#fimenu {
+  width: auto;
+  height: 180px;
+  background-color: #cccccc;
+}
+
+#opc {
+  margin-left: 80px;
+  width: 830px;
+  height: 45px;
+  padding-top: 20px;
+}
+
+#opc ul li {
+  padding-left: 12px;
+  padding-right: 12px;
+  text-decoration: none;
+  display: inline;
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+  color: #1a1a1a;
+}
+
+#assinatura {
+  margin-top: 90px;
+  margin-left: 92px;
+  text-align: left;
+  font-family: 'Roboto', sans-serif;
+}
